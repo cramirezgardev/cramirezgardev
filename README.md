@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**cramirezgardev/cramirezgardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Carlos
 
-Here are some ideas to get you started:
+### Systems & Network Technician | DevOps & Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy técnico especializado en sistemas, redes y automatización,
+con interés en desarrollar herramientas que simplifiquen
+la administración de infraestructuras.
+
+## 🛠️ Tecnologías
+
+- Sistemas: Linux, Windows, WSL
+- Infraestructura: Docker, redes TCP/IP, SSH
+- Desarrollo: Python, Java, Bash, JavaScript
+- Herramientas: Git, GitHub, VS Code
+- Áreas: DevOps, automatización y virtualización
+
+## 🚀 Proyectos destacados
+
+Aquí encontrarás aplicaciones, scripts y herramientas
+que he desarrollado para resolver problemas reales.
+
+## 📚 Actualmente aprendiendo
+
+- Automatización de infraestructuras
+- Integración y despliegue continuo
+- Desarrollo de herramientas web
+
+## 📫 Contacto
+
+Puedes encontrarme en LinkedIn y explorar mis
+repositorios públicos.
